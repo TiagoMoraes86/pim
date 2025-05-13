@@ -78,13 +78,14 @@
             // lblBemVindo
             // 
             lblBemVindo.AutoSize = true;
-            lblBemVindo.Font = new Font("Leelawadee UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblBemVindo.Location = new Point(13, 9);
+            lblBemVindo.Font = new Font("Franklin Gothic Medium", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblBemVindo.Location = new Point(178, 9);
             lblBemVindo.Margin = new Padding(4, 0, 4, 0);
             lblBemVindo.Name = "lblBemVindo";
-            lblBemVindo.Size = new Size(109, 25);
+            lblBemVindo.Size = new Size(102, 24);
             lblBemVindo.TabIndex = 4;
             lblBemVindo.Text = "Bem-vindo!";
+            lblBemVindo.Click += lblBemVindo_Click;
             // 
             // FrmPrincipal
             // 

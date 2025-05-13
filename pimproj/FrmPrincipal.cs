@@ -20,7 +20,7 @@ namespace SistemaChamados
             InitializeComponent();
             usuarioLogado = email;
             tipoUsuario = tipo;
-            lblBemVindo.Text = $"Bem-vindo(a), {usuarioLogado}!";
+            lblBemVindo.Text = $"Bem-vindo(a)!";
         }
 
         private void btnNovoChamado_Click(object sender, EventArgs e)
@@ -49,6 +49,11 @@ namespace SistemaChamados
         private void FrmPrincipal_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
+        }
+
+        private void lblBemVindo_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

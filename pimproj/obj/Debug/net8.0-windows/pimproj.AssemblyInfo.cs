@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pimproj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5169652e46d048fe6e9c52189fe5df0c3eb82b")]
 [assembly: System.Reflection.AssemblyProductAttribute("pimproj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pimproj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

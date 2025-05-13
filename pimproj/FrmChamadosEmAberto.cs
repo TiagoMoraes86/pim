@@ -91,12 +91,10 @@ namespace SistemaChamados
             {
                 int idChamado = Convert.ToInt32(dgvChamados.SelectedRows[0].Cells["ID"].Value);
 
-                // chamado pelo ID
                 Chamado? chamado = GerenciadorChamados.GetInstancia().ObterChamadoPorId(idChamado);
 
                 if (chamado != null)
                 {
-                    
                     string novoStatus = "";
                     if (chamado.Status == "Em análise")
                         novoStatus = "Em andamento";
@@ -105,10 +103,8 @@ namespace SistemaChamados
                     else
                         novoStatus = "Em análise";
 
-                    
                     chamado.AlterarStatus(novoStatus);
 
-                    
                     if (novoStatus == "Finalizado")
                     {
                         string solucao = Microsoft.VisualBasic.Interaction.InputBox(
@@ -120,7 +116,9 @@ namespace SistemaChamados
                         }
                     }
 
-                    
+                    // Atualizar o chamado no banco de dados
+                    GerenciadorChamados.GetInstancia().AtualizarChamado(chamado);
+
                     CarregarChamadosEmAberto();
 
                     MessageBox.Show($"Status do chamado ID {idChamado} alterado para: {novoStatus}",
@@ -133,6 +131,7 @@ namespace SistemaChamados
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
 
         private void btnAtribuirTecnico_Click(object sender, EventArgs e)
         {

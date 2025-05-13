@@ -18,3 +18,9 @@ C:\Users\tiago\source\repos\pimproj\pimproj\obj\Debug\net8.0-windows\refint\pimp
 C:\Users\tiago\source\repos\pimproj\pimproj\obj\Debug\net8.0-windows\pimproj.pdb
 C:\Users\tiago\source\repos\pimproj\pimproj\obj\Debug\net8.0-windows\pimproj.genruntimeconfig.cache
 C:\Users\tiago\source\repos\pimproj\pimproj\obj\Debug\net8.0-windows\ref\pimproj.dll
+C:\Users\tiago\source\repos\pimproj\pimproj\obj\Debug\net8.0-windows\pimproj.sourcelink.json
+C:\Users\tiago\source\repos\pimproj\pimproj\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tiago\source\repos\pimproj\pimproj\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tiago\source\repos\pimproj\pimproj\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\tiago\source\repos\pimproj\pimproj\obj\Debug\net8.0-windows\pimproj.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\pimproj\pimproj\obj\Debug\net8.0-windows\pimproj.csproj.Up2Date

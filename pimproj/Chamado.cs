@@ -40,6 +40,17 @@ namespace SistemaChamados.Model
         }
 
         // Métodos
+
+        public void DefinirDataFechamento(DateTime dataFechamento)
+        {
+            DataFechamento = dataFechamento;
+        }
+
+        public void AdicionarInteracaoDoBanco(DateTime dataHora, string descricao)
+        {
+            Interacoes.Add(new Interacao(dataHora, descricao));
+        }
+
         public void AtribuirTecnico(string tecnico)
         {
             Tecnico = tecnico;

@@ -1,94 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tiago\\source\\repos\\pimproj\\",
+  "WorkspaceRootPath": "C:\\Users\\tiago\\source\\repos\\TiagoMoraes86\\pim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\frmnovochamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmnovochamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\frmchamadosfinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmchamadosfinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\frmchamadosemaberto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmchamadosemaberto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\chamadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\chamadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\chamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\chamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\gerenciadorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\gerenciadorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\tabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\tabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmchamadosemaberto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmchamadosemaberto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\gerenciadorchamados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\gerenciadorchamados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmnovochamado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmnovochamado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmchamadosfinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmchamadosfinalizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|c:\\users\\tiago\\source\\repos\\pimproj\\pimproj\\frmnovochamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C11D6BE-ACF3-413F-AD79-5D08FB9D607C}|pimproj\\pimproj.csproj|solutionrelative:pimproj\\frmnovochamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48443244-1AEA-4B7A-A0BB-7F7C7F66648E}|SistemaChamados.Tests\\SistemaChamados.Tests.csproj|c:\\users\\tiago\\source\\repos\\tiagomoraes86\\pim\\sistemachamados.tests\\chamadotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48443244-1AEA-4B7A-A0BB-7F7C7F66648E}|SistemaChamados.Tests\\SistemaChamados.Tests.csproj|solutionrelative:sistemachamados.tests\\chamadotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,289 +13,35 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChamadoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\ChamadoRepository.cs",
-              "RelativeDocumentMoniker": "pimproj\\ChamadoRepository.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\ChamadoRepository.cs",
-              "RelativeToolTip": "pimproj\\ChamadoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:47:29.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "pimproj\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\UsuarioRepository.cs",
-              "RelativeToolTip": "pimproj\\UsuarioRepository.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAqwIQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:46:59.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "tabelas.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\tabelas.cs",
-              "RelativeDocumentMoniker": "pimproj\\tabelas.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\tabelas.cs",
-              "RelativeToolTip": "pimproj\\tabelas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:46:06.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DatabaseConnection.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\DatabaseConnection.cs",
-              "RelativeDocumentMoniker": "pimproj\\DatabaseConnection.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\DatabaseConnection.cs",
-              "RelativeToolTip": "pimproj\\DatabaseConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:39:12.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FrmNovoChamado.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmNovoChamado.Designer.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmNovoChamado.Designer.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmNovoChamado.Designer.cs",
-              "RelativeToolTip": "pimproj\\FrmNovoChamado.Designer.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAIwKAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T19:54:52.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FrmPrincipal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmPrincipal.Designer.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmPrincipal.Designer.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmPrincipal.Designer.cs",
-              "RelativeToolTip": "pimproj\\FrmPrincipal.Designer.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAwwG0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T19:42:38.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\Usuario.cs",
-              "RelativeDocumentMoniker": "pimproj\\Usuario.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\Usuario.cs",
-              "RelativeToolTip": "pimproj\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:11:22.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrmChamadosEmAberto.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosEmAberto.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmChamadosEmAberto.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosEmAberto.cs",
-              "RelativeToolTip": "pimproj\\FrmChamadosEmAberto.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAqwJYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T02:17:38.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FrmChamadosFinalizados.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosFinalizados.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmChamadosFinalizados.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosFinalizados.cs",
-              "RelativeToolTip": "pimproj\\FrmChamadosFinalizados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T02:09:11.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FrmNovoChamado.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmNovoChamado.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmNovoChamado.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmNovoChamado.cs",
-              "RelativeToolTip": "pimproj\\FrmNovoChamado.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAqwFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T02:08:25.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmPrincipal.cs",
-              "RelativeToolTip": "pimproj\\FrmPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T02:08:17.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GerenciadorChamados.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\GerenciadorChamados.cs",
-              "RelativeDocumentMoniker": "pimproj\\GerenciadorChamados.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\GerenciadorChamados.cs",
-              "RelativeToolTip": "pimproj\\GerenciadorChamados.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T02:06:49.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GerenciadorUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\GerenciadorUsuarios.cs",
-              "RelativeDocumentMoniker": "pimproj\\GerenciadorUsuarios.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\GerenciadorUsuarios.cs",
-              "RelativeToolTip": "pimproj\\GerenciadorUsuarios.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T02:04:27.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Chamado.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\Chamado.cs",
-              "RelativeDocumentMoniker": "pimproj\\Chamado.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\Chamado.cs",
-              "RelativeToolTip": "pimproj\\Chamado.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvy4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:50:28.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\Program.cs",
-              "RelativeDocumentMoniker": "pimproj\\Program.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\Program.cs",
-              "RelativeToolTip": "pimproj\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:38:20.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmChamadosFinalizados.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosFinalizados.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmChamadosFinalizados.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosFinalizados.cs [Projeto]",
-              "RelativeToolTip": "pimproj\\FrmChamadosFinalizados.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:36:29.697Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmNovoChamado.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmNovoChamado.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmNovoChamado.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmNovoChamado.cs [Projeto]",
-              "RelativeToolTip": "pimproj\\FrmNovoChamado.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:23:55.853Z",
-              "EditorCaption": " [Projeto]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmPrincipal.cs [Projeto]",
-              "RelativeToolTip": "pimproj\\FrmPrincipal.cs [Projeto]",
+              "Title": "ChamadoTests.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\TiagoMoraes86\\pim\\SistemaChamados.Tests\\ChamadoTests.cs",
+              "RelativeDocumentMoniker": "SistemaChamados.Tests\\ChamadoTests.cs",
+              "ToolTip": "C:\\Users\\tiago\\source\\repos\\TiagoMoraes86\\pim\\SistemaChamados.Tests\\ChamadoTests.cs",
+              "RelativeToolTip": "SistemaChamados.Tests\\ChamadoTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:23:38.475Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmChamadosEmAberto.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosEmAberto.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmChamadosEmAberto.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmChamadosEmAberto.cs [Projeto]",
-              "RelativeToolTip": "pimproj\\FrmChamadosEmAberto.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:20:34.069Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmLogin.cs",
-              "RelativeToolTip": "pimproj\\FrmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:17:45.025Z",
+              "WhenOpened": "2025-05-25T09:31:33.053Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FrmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmLogin.Designer.cs",
-              "RelativeToolTip": "pimproj\\FrmLogin.Designer.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:13:54.022Z",
-              "EditorCaption": ""
-            },
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmLogin.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "pimproj\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\tiago\\source\\repos\\pimproj\\pimproj\\FrmLogin.cs [Projeto]",
-              "RelativeToolTip": "pimproj\\FrmLogin.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:13:00.693Z",
-              "EditorCaption": " [Projeto]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
